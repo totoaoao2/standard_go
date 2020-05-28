@@ -1,4 +1,4 @@
-module github.com/totoaoao/standard_go
+module github.com/totoaoao2/standard_go
 
 go 1.13
 

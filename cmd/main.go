@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/totoaoao/standard_go/hello"
+	"github.com/totoaoao2/standard_go/hello"
 )
 
 func main() {
