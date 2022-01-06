@@ -40,6 +40,8 @@ workflows:
           filters:
             branches:
               only: /.*/
+      - build:
+          name: test_build2
       - deploy:
           name: test_deploy
           filters:
