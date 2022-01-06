@@ -39,7 +39,7 @@ workflows:
           name: test_build
           filters:
             branches:
-              only: /.*/
+              ignore: /.*/
       - build:
           name: test_build2
       - deploy:
